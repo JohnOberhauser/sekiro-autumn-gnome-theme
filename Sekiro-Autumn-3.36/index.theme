@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Sekiro Autumn
+Comment=A flat theme with transparent elements based on Arc-Black-Steel
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Sekiro-Autumn
+MetacityTheme=Sekiro-Autumn
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
